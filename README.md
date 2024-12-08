@@ -8,5 +8,5 @@ To use the `demoji` library, install it via pip:
 
 ```bash
 pip install demoji
-
+https://github.com/Omonjon2004/-Emoji-Utils-in-Python/issues/new
 
